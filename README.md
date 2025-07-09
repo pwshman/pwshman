@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pwshman
 - 👀 I’m interested in powershell and automating general administration tasks and security solutions
 - 🌱 I’m currently learning automating azure and github APIs
-- 💞️ I’m looking to collaborate on anything powershell related
+- ✨ I’m looking to collaborate on anything powershell related
 - 📫 How to reach me: pwshman@outlook.com
 
 <!---
